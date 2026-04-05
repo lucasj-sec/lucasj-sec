@@ -1,17 +1,21 @@
-## 👋 Olá, sou Lucas J. Da Cunha
-🎓 Estudante de Engenharia de Software na Universidade São Francisco  
-💻 Atualmente estudando **Java**, **POO** e **estrutura de dados**  
-📚 Criando projetos práticos para reforçar minha base como desenvolvedor backend  
-🌱 Em constante aprendizado com foco em boas práticas e versionamento (Git)  
-🚀 Buscando colaborar em projetos open source e evoluir com a comunidade  
-📬 Entre em contato: linkedin.com/in/lucasjcunha  
+## 🛡️ Olá, sou Lucas J. Da Cunha
+*"Sunrise, parabellum."*
 
----
+💻 Atuando com Monitoramento de Sistemas e focando minha evolução em **Cybersecurity (Blue Team/SecOps)**, **SRE** e **Infraestrutura Cloud**.
+🎓 Estudante de Engenharia de Software na Universidade São Francisco (USF).
+🛠️ **Stack & Interesses:** Automação em Python, Linux (Debian/Arch), Hardening, Redes (Firewalls/Routing) e análise de logs.
+🚀 **O que estou construindo:** Desenvolvendo o **Citadel** (um mini-SOAR para detecção e contenção ativa de ameaças via SSH) e focado em desafios práticos de segurança (OverTheWire: Bandit concluído).
+🎯 **Próximos alvos:** Dominar a stack Azure e buscar a certificação CompTIA CySA+.
+📬 Vamos trocar uma ideia: linkedin.com/in/lucas-j-da-cunha
 
-## 👋 Hi, I'm Lucas J. Da Cunha  
-🎓 Software Engineering student at Universidade São Francisco (Brazil)  
-💻 Currently learning **Java**, **OOP** and **data structures**  
-📚 Creating practical projects to strengthen my backend development skills  
-🌱 Continuously learning with focus on best practices and version control (Git)  
-🚀 Looking to collaborate on open source projects and grow with the community  
-📬 Contact me: linkedin.com/in/lucasjcunha  
+--
+
+## 🛡️ Hi, I'm Lucas J. Da Cunha
+*"Sunrise, parabellum."*
+
+💻 Working in Systems Monitoring and steering my career towards **Cybersecurity (Blue Team/SecOps)**, **SRE**, and **Cloud Infrastructure**.
+🎓 Software Engineering student at Universidade São Francisco (Brazil).
+🛠️ **Stack & Interests:** Python for Security Automation, Linux (Debian/Arch), Hardening, Networking (Firewalls/Routing), and Log Analysis.
+🚀 **Currently building:** Developing **Citadel** (a mini-SOAR project for automated threat detection and active containment) and tackling security wargames (OverTheWire: Bandit completed).
+🎯 **Next targets:** Mastering Azure architecture and pursuing the CompTIA CySA+ certification.
+📬 Let's connect: linkedin.com/in/lucas-j-da-cunha
