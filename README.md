@@ -163,6 +163,6 @@ Now I build infrastructure with Terraform on Azure, documenting the real trouble
 +-------------------------------------------+
 ```
 
-![Containers organizing](https://raw.githubusercontent.com/lucasj-sec/lucasj-sec/main/containers))
+![Cloud infra](https://raw.githubusercontent.com/lucasj-sec/lucasj-sec/main/infra.svg)
 
 </div>
