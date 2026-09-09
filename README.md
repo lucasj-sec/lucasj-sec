@@ -53,8 +53,8 @@ profissional = {
 | 🛡️ **[Citadel SOAR](https://github.com/lucasj-sec/citadel-soar)** | `ACTIVE` | Mini-SOAR headless para defesa ativa de servidor Linux, construído durante prática em labs do HTB |
 | ⚔️ **HackTheBox Labs** | `ACTIVE` | Prática regular em ambiente controlado, mantém a base de segurança afiada |
 | 🎓 **ESCOM, Hacker Ético** | `COMPLETED ✅` | Curso pela Escola de Telecomunicações do Exército Brasileiro, badge Cisco |
-| 🎯 **CompTIA Security+** | `IN PROGRESS` | Certificação em andamento |
-| 🎯 **CompTIA CySA+** | `NEXT TARGET` | Análise de ameaças e resposta a incidentes |
+| 🎯 **AWS Certified Solutions Architect - Associate** | `IN PROGRESS` | Certificação em andamento |
+| 🎯 **CCNA** | `NEXT TARGET` | Especialização em Redes |
 
 </div>
 
@@ -132,8 +132,8 @@ professional = {
 | 🛡️ **[Citadel SOAR](https://github.com/lucasj-sec/citadel-soar)** | `ACTIVE` | Headless mini-SOAR for active Linux server defense, built during HTB practice |
 | ⚔️ **HackTheBox Labs** | `ACTIVE` | Regular practice in a controlled environment, keeps the security foundation sharp |
 | 🎓 **ESCOM, Ethical Hacking** | `COMPLETED ✅` | Course through the Brazilian Army's telecommunications school, Cisco badge |
-| 🎯 **CompTIA Security+** | `IN PROGRESS` | Certification underway |
-| 🎯 **CompTIA CySA+** | `NEXT TARGET` | Threat analysis and incident response |
+| 🎯 **AWS Certified Solutions Architect - Associate** | `IN PROGRESS` | Certification underway |
+| 🎯 **CCNA** | `NEXT TARGET` | Network Specialization |
 
 ### 🎯 What I'm about
 
